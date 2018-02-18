@@ -1,0 +1,2 @@
+Adding a dislocation to a block
+From TS Li et al. (1997) eqn (7), the position of a node at the centre of a k-sided face can be found from
